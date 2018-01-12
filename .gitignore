@@ -13,3 +13,5 @@ neptune.log
 #presentation from brainhack
 presentation/
 
+# pycache
+image_helpers/__pycache__/
