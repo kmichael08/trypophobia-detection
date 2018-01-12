@@ -3,3 +3,13 @@
 
 # dataset
 tryponet_set2/
+
+#pycharm
+.idea
+
+#neptune files
+neptune.log
+
+#presentation from brainhack
+presentation/
+
